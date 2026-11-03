@@ -2,6 +2,8 @@
 
 Honest Thumbnails is a Chrome extension that replaces YouTube's uploader-chosen thumbnails with a real frame from the middle of each video.
 
+> **Bilibili and Douyin are supported too.** The follow-up project, [封面避雷针 · Clickbait Cop](https://github.com/hiyanyang/clickbait-cop), applies the same idea to YouTube, Bilibili and Douyin — it reuses the preview images each platform already generates for its progress bar, so nothing gets downloaded.
+
 <a href="https://chromewebstore.google.com/detail/honest-thumbnails/kocjpadfddegoogneldhlkiibopgdphk"><img src=".github/chrome-web-store-badge.png" alt="Available in the Chrome Web Store" width="206"></a>
 
 ![Before and after: a clickbait thumbnail next to a real frame from the same video](store/screenshot-1-before-after.png)
